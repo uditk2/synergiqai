@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120" role="img" aria-label="Seerly">
+  <defs>
+    <radialGradient id="seerly-gradient" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </radialGradient>
+  </defs>
+  <!-- Green orb background -->
+  <circle cx="60" cy="60" r="60" fill="url(#seerly-gradient)"/>
+  <!-- Cream S shape -->
+  <path d="M35 35c0-8 6-14 14-14s14 6 14 14-6 14-14 14h-14v16c0 8 6 14 14 14s14-6 14-14" 
+        stroke="#F5F5DC" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- Base -->
+  <ellipse cx="60" cy="105" rx="25" ry="8" fill="#047857"/>
+  
+  <!-- Seerly text -->
+  <text x="140" y="75" font-family="Inter, system-ui, sans-serif" font-size="52" font-weight="700" fill="#1F2937">Seerly</text>
+</svg>

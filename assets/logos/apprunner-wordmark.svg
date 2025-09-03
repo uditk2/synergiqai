@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="120" viewBox="0 0 440 120" role="img" aria-label="AppRunner">
+  <defs>
+    <linearGradient id="apprunner-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2D1B69"/>
+      <stop offset="100%" stop-color="#4C6EFF"/>
+    </linearGradient>
+  </defs>
+  <!-- App icon background -->
+  <rect x="0" y="0" width="120" height="120" rx="26" fill="#2D1B69"/>
+  <!-- Blue circle -->
+  <circle cx="60" cy="60" r="42" fill="#4C6EFF"/>
+  <!-- Play icon -->
+  <path d="M48 40v40l32-20z" fill="white"/>
+  <!-- Dots -->
+  <circle cx="88" cy="52" r="3" fill="white"/>
+  <circle cx="88" cy="68" r="3" fill="white"/>
+  
+  <!-- AppRunner text -->
+  <text x="140" y="45" font-family="Inter, system-ui, sans-serif" font-size="48" font-weight="700" fill="#1a1a1a">App</text>
+  <text x="140" y="85" font-family="Inter, system-ui, sans-serif" font-size="48" font-weight="700" fill="#1a1a1a">Runner</text>
+</svg>
